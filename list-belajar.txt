@@ -1,0 +1,4 @@
+List belajar ku:
+- Github
+- HTML
+- CSS
