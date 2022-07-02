@@ -1,4 +1,5 @@
 List belajar ku:
-- Github
 - HTML
 - CSS
+- JavaScript
+- DOM
