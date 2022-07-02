@@ -2,4 +2,4 @@ List belajar ku:
 - HTML
 - CSS
 - JavaScript
-- DOM
+- DOM Manipulation
